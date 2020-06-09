@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{1B4AAD27-7795-489F-BF2B-35A4B7F1A033}" SchemaVersion="97">
+	<SoundcasterSessions>
+		<WorkUnit Name="P6_Game" ID="{1B4AAD27-7795-489F-BF2B-35A4B7F1A033}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundcasterSession Name="Music" ID="{54B8C18D-474E-4224-974A-56BE28E0F110}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="Music_Start" ID="{8BA6350F-A4CE-4619-8C50-3F22E163BBF5}" WorkUnitID="{8BCE74F2-D189-4EB1-8754-FE0C76FF4503}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Music_Lose" ID="{762D248D-8B0B-461B-AE5D-64965989CBA5}" WorkUnitID="{8BCE74F2-D189-4EB1-8754-FE0C76FF4503}"/>
+							<Position X="1" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Music_Win" ID="{45DE0059-3E1F-4950-85A1-4D25215D62D0}" WorkUnitID="{8BCE74F2-D189-4EB1-8754-FE0C76FF4503}"/>
+							<Position X="1" Y="1"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true">
+						<RTPCValue>
+							<GameParameterRef Name="Music_Playback" ID="{817CBD09-64A3-4FB9-BE91-4399BB08034F}"/>
+							<Value>100</Value>
+						</RTPCValue>
+					</RTPCValueList>
+					<CurrentStateList ShowAll="true">
+						<CurrentStateRef Name="Battery_75" ID="{6B3F7720-5722-4121-888B-D8A148109A50}"/>
+					</CurrentStateList>
+					<CurrentSwitchList ShowAll="true"/>
+				</SoundcasterSession>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundcasterSessions>
+</WwiseDocument>

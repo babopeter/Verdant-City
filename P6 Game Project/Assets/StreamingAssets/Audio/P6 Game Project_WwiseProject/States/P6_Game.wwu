@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{596C6E3B-5E56-487D-83FE-1C39331C5338}" SchemaVersion="97">
+	<States>
+		<WorkUnit Name="P6_Game" ID="{596C6E3B-5E56-487D-83FE-1C39331C5338}" PersistMode="Standalone">
+			<ChildrenList>
+				<StateGroup Name="Music_State" ID="{29D36301-B5D0-4679-B3AE-1373907272F7}">
+					<ChildrenList>
+						<State Name="None" ID="{7B139E4D-7E05-4645-AB20-12AD538A9816}"/>
+						<State Name="Battery_100" ID="{7C7AF8AF-7F97-461D-A83A-B170EB83DEE2}"/>
+						<State Name="Battery_75" ID="{6B3F7720-5722-4121-888B-D8A148109A50}"/>
+						<State Name="Battery_50" ID="{50602185-EAA2-45EB-9EC7-EF2E223C7519}"/>
+						<State Name="Battery_25" ID="{5DF4B9EE-F5A1-4244-B7CB-2084AF5F585D}"/>
+					</ChildrenList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>

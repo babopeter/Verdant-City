@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{AEC455E0-C13D-480B-816A-CF6738A3E428}" SchemaVersion="97">
+	<GameParameters>
+		<WorkUnit Name="P6_Game" ID="{AEC455E0-C13D-480B-816A-CF6738A3E428}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="Music_Playback" ID="{817CBD09-64A3-4FB9-BE91-4399BB08034F}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="100"/>
+						<Property Name="RTPCRamping" Type="int16" Value="1"/>
+					</PropertyList>
+				</GameParameter>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

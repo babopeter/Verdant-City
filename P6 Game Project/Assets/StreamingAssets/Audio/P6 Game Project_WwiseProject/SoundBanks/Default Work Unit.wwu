@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{6E13264A-861C-48DF-86EF-CF65DB07FC80}" SchemaVersion="97">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{6E13264A-861C-48DF-86EF-CF65DB07FC80}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Main" ID="{5C86CB2E-E6F8-4B27-9B46-C74E6E0DF243}">
+					<ObjectInclusionList>
+						<ObjectRef Name="craftItem" ID="{71FF8B6C-FF3C-4030-BADA-680DBC3B79F6}" WorkUnitID="{8BCE74F2-D189-4EB1-8754-FE0C76FF4503}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="droneOn" ID="{0B9ACDC0-7479-40D6-A62B-1EBC5CC7CADC}" WorkUnitID="{8BCE74F2-D189-4EB1-8754-FE0C76FF4503}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Footsteps" ID="{A204F527-DF39-42D2-8A1E-A5DA1F65AD6A}" WorkUnitID="{8BCE74F2-D189-4EB1-8754-FE0C76FF4503}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="pickupElectronics" ID="{B908C8EE-D52F-4439-B6B7-E940E38218DF}" WorkUnitID="{8BCE74F2-D189-4EB1-8754-FE0C76FF4503}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="turnItem" ID="{E62608A9-FBEA-449F-BE01-E450C6A1E617}" WorkUnitID="{8BCE74F2-D189-4EB1-8754-FE0C76FF4503}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="windmillOn" ID="{0ECD9F2C-010D-44CA-8007-8302CE0CF656}" WorkUnitID="{8BCE74F2-D189-4EB1-8754-FE0C76FF4503}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="moveItem" ID="{55D49A01-3A90-4682-B122-AAA287A07543}" WorkUnitID="{8BCE74F2-D189-4EB1-8754-FE0C76FF4503}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="openCraftingMenu" ID="{A3E21B08-44F7-468D-BAE3-D609699BA537}" WorkUnitID="{8BCE74F2-D189-4EB1-8754-FE0C76FF4503}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="AdaptiveMusic" ID="{B16E6E4B-AA93-46E5-9D1B-6BDCE8392262}" WorkUnitID="{8BCE74F2-D189-4EB1-8754-FE0C76FF4503}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="lowBattery" ID="{67FC66BC-70EA-4762-8975-05671EF37669}" WorkUnitID="{8BCE74F2-D189-4EB1-8754-FE0C76FF4503}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="generatorOn" ID="{7777E705-F919-47D9-ABF8-0C02E8B01B44}" WorkUnitID="{8BCE74F2-D189-4EB1-8754-FE0C76FF4503}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Ambience" ID="{34A2EA7A-2E7C-4906-B5B6-6D9017103A1E}" WorkUnitID="{8BCE74F2-D189-4EB1-8754-FE0C76FF4503}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="pickupScrap" ID="{2B9DBFB1-A058-4934-A6B6-D948A9B44C98}" WorkUnitID="{8BCE74F2-D189-4EB1-8754-FE0C76FF4503}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="birdSong" ID="{29E4D69C-8474-4A27-AA1B-F1ECCF15E90E}" WorkUnitID="{8BCE74F2-D189-4EB1-8754-FE0C76FF4503}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="pickupWood" ID="{E66D091B-8A39-4AB8-97BC-29AED974EFD0}" WorkUnitID="{8BCE74F2-D189-4EB1-8754-FE0C76FF4503}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Music_Loop" ID="{BDD593BA-4B24-4B67-AABB-A0FAA17256EB}" WorkUnitID="{8BCE74F2-D189-4EB1-8754-FE0C76FF4503}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="stopAll" ID="{9879CD47-7FCB-4C3B-BC30-490CFE401135}" WorkUnitID="{8BCE74F2-D189-4EB1-8754-FE0C76FF4503}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="generatorOff" ID="{1AC7C91E-146F-4CEA-95F3-4A6FB272C8FE}" WorkUnitID="{8BCE74F2-D189-4EB1-8754-FE0C76FF4503}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Intro" ID="{710CCA30-520D-4CF9-A4E9-3557111E1F0F}" WorkUnitID="{8BCE74F2-D189-4EB1-8754-FE0C76FF4503}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Objective_New" ID="{E2FB81FA-0EB5-4EE5-8FF6-274A4774EF87}" WorkUnitID="{8BCE74F2-D189-4EB1-8754-FE0C76FF4503}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="windmillOff" ID="{FCBD4C6D-D981-4F43-97BC-34370496C57E}" WorkUnitID="{8BCE74F2-D189-4EB1-8754-FE0C76FF4503}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Menu" ID="{ED944763-DC8A-4BC2-9120-28AA73B66268}">
+					<ObjectInclusionList>
+						<ObjectRef Name="UI_hover" ID="{F8062032-36A8-46CF-9D20-704EE519FE00}" WorkUnitID="{8BCE74F2-D189-4EB1-8754-FE0C76FF4503}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="UI_click" ID="{9D3E6581-2ABC-47EB-A4E1-404D22B7F5B4}" WorkUnitID="{8BCE74F2-D189-4EB1-8754-FE0C76FF4503}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>C:\Repos\P6 Game Project\Assets\StreamingAssets\Audio\P6 Game Project_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\Repos\P6 Game Project\Assets\StreamingAssets\Audio\P6 Game Project_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Repos\P6 Game Project\Assets\StreamingAssets\Audio\P6 Game Project_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Repos\P6 Game Project\Assets\StreamingAssets\Audio\P6 Game Project_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="2607556080" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Menu</ObjectPath>
+			<ShortName>Menu</ShortName>
+			<Path>Menu.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2249769530" Name="UI_click" ObjectPath="\Events\Default Work Unit\UI\UI_click" DurationType="OneShot" DurationMin="1.076032" DurationMax="1.076032">
+					<IncludedMemoryFiles>
+						<File Id="895940154" Language="SFX">
+							<ShortName>UI_click.wav</ShortName>
+							<Path>SFX\UI_click_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2118900976" Name="UI_hover" ObjectPath="\Events\Default Work Unit\UI\UI_hover" DurationType="OneShot" DurationMin="0.115374" DurationMax="0.115374">
+					<IncludedMemoryFiles>
+						<File Id="637101821" Language="SFX">
+							<ShortName>UI_hover.wav</ShortName>
+							<Path>SFX\UI_hover_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="3161908922" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Main</ObjectPath>
+			<ShortName>Main</ShortName>
+			<Path>Main.bnk</Path>
+			<IncludedEvents>
+				<Event Id="85412153" Name="Ambience" ObjectPath="\Events\Default Work Unit\Foley\Ambience" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="223115164" Language="SFX">
+							<ShortName>Ambience_1.wav</ShortName>
+							<Path>SFX\Ambience_1_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3886820807" Name="birdSong" ObjectPath="\Events\Default Work Unit\Foley\birdSong" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="279555595" Language="SFX">
+							<ShortName>Birds.wav</ShortName>
+							<Path>SFX\Birds_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2741499204" Name="craftItem" ObjectPath="\Events\Default Work Unit\Foley\craftItem" DurationType="OneShot" DurationMin="1.379116" DurationMax="1.379116">
+					<IncludedMemoryFiles>
+						<File Id="802895620" Language="SFX">
+							<ShortName>Crafting.wav</ShortName>
+							<Path>SFX\Crafting_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="524398922" Name="droneOn" ObjectPath="\Events\Default Work Unit\Foley\droneOn" MaxAttenuation="50.000000" DurationType="OneShot" DurationMin="44.297482" DurationMax="44.297482">
+					<IncludedMemoryFiles>
+						<File Id="325517268" Language="SFX">
+							<ShortName>Drone_3.wav</ShortName>
+							<Path>SFX\Drone_3_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2385628198" Name="Footsteps" ObjectPath="\Events\Default Work Unit\Foley\Footsteps" DurationType="OneShot" DurationMin="0.688526" DurationMax="0.918027">
+					<IncludedMemoryFiles>
+						<File Id="17832740" Language="SFX">
+							<ShortName>Fts_6.wav</ShortName>
+							<Path>SFX\Fts_6_10C4C929.wem</Path>
+						</File>
+						<File Id="56267667" Language="SFX">
+							<ShortName>Fts_1.wav</ShortName>
+							<Path>SFX\Fts_1_10C4C929.wem</Path>
+						</File>
+						<File Id="200080304" Language="SFX">
+							<ShortName>Fts_7.wav</ShortName>
+							<Path>SFX\Fts_7_10C4C929.wem</Path>
+						</File>
+						<File Id="298026302" Language="SFX">
+							<ShortName>Fts_8.wav</ShortName>
+							<Path>SFX\Fts_8_10C4C929.wem</Path>
+						</File>
+						<File Id="398983806" Language="SFX">
+							<ShortName>Gak_2.wav</ShortName>
+							<Path>SFX\Gak_2_10C4C929.wem</Path>
+						</File>
+						<File Id="403218454" Language="SFX">
+							<ShortName>Fts_4.wav</ShortName>
+							<Path>SFX\Fts_4_10C4C929.wem</Path>
+						</File>
+						<File Id="446951219" Language="SFX">
+							<ShortName>Fts_2.wav</ShortName>
+							<Path>SFX\Fts_2_10C4C929.wem</Path>
+						</File>
+						<File Id="699395777" Language="SFX">
+							<ShortName>Fts_5.wav</ShortName>
+							<Path>SFX\Fts_5_10C4C929.wem</Path>
+						</File>
+						<File Id="819595896" Language="SFX">
+							<ShortName>Fts_9.wav</ShortName>
+							<Path>SFX\Fts_9_10C4C929.wem</Path>
+						</File>
+						<File Id="888138075" Language="SFX">
+							<ShortName>Gak_3.wav</ShortName>
+							<Path>SFX\Gak_3_10C4C929.wem</Path>
+						</File>
+						<File Id="935134938" Language="SFX">
+							<ShortName>Gak_1.wav</ShortName>
+							<Path>SFX\Gak_1_10C4C929.wem</Path>
+						</File>
+						<File Id="944849337" Language="SFX">
+							<ShortName>Fts_3.wav</ShortName>
+							<Path>SFX\Fts_3_10C4C929.wem</Path>
+						</File>
+						<File Id="947290999" Language="SFX">
+							<ShortName>Gak_4.wav</ShortName>
+							<Path>SFX\Gak_4_10C4C929.wem</Path>
+						</File>
+						<File Id="984012717" Language="SFX">
+							<ShortName>Fts_10.wav</ShortName>
+							<Path>SFX\Fts_10_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3315841131" Name="generatorOff" ObjectPath="\Events\Default Work Unit\Foley\generatorOff" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="4293911511" Name="generatorOn" ObjectPath="\Events\Default Work Unit\Foley\generatorOn" MaxAttenuation="25.000000" DurationType="OneShot" DurationMin="101.404106" DurationMax="101.404106">
+					<IncludedMemoryFiles>
+						<File Id="258516127" Language="SFX">
+							<ShortName>Generator_1.wav</ShortName>
+							<Path>SFX\Generator_1_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1125500713" Name="Intro" ObjectPath="\Events\Default Work Unit\Music\Intro" DurationType="OneShot" DurationMin="30.454512" DurationMax="30.454512">
+					<IncludedMemoryFiles>
+						<File Id="881268695" Language="SFX">
+							<ShortName>Intro_2.wav</ShortName>
+							<Path>SFX\Intro_2_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1130782588" Name="lowBattery" ObjectPath="\Events\Default Work Unit\UI\lowBattery" DurationType="OneShot" DurationMin="1.730386" DurationMax="1.730386">
+					<IncludedMemoryFiles>
+						<File Id="1070303244" Language="SFX">
+							<ShortName>BatteryLow.wav</ShortName>
+							<Path>SFX\BatteryLow_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1591560151" Name="moveItem" ObjectPath="\Events\Default Work Unit\Foley\moveItem" DurationType="OneShot" DurationMin="0.543061" DurationMax="0.543061">
+					<IncludedMemoryFiles>
+						<File Id="561824268" Language="SFX">
+							<ShortName>MoveItem.wav</ShortName>
+							<Path>SFX\MoveItem_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3937699135" Name="Music_Loop" ObjectPath="\Events\Default Work Unit\Music\Music_Loop" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="405076858" Language="SFX">
+							<ShortName>Music_1.wav</ShortName>
+							<Path>SFX\Music_1_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3736367630" Name="Music_Lose" ObjectPath="\Events\Default Work Unit\Music\AdaptiveMusic\Music_Lose" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3725903807" Name="Music_Start" ObjectPath="\Events\Default Work Unit\Music\AdaptiveMusic\Music_Start" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="21885580" Language="SFX">
+							<ShortName>P6_Win.wav</ShortName>
+							<Path>SFX\P6_Win_D79FB2B7.wem</Path>
+						</File>
+						<File Id="23710730" Language="SFX">
+							<ShortName>P6_Glitch_1_110bpm.wav</ShortName>
+							<Path>SFX\P6_Glitch_1_110bpm_D79FB2B7.wem</Path>
+						</File>
+						<File Id="340041216" Language="SFX">
+							<ShortName>P6_Pad_2_110bpm.wav</ShortName>
+							<Path>SFX\P6_Pad_2_110bpm_D79FB2B7.wem</Path>
+						</File>
+						<File Id="545452513" Language="SFX">
+							<ShortName>P6_Chaos_1_110bpm.wav</ShortName>
+							<Path>SFX\P6_Chaos_1_110bpm_D79FB2B7.wem</Path>
+						</File>
+						<File Id="600195290" Language="SFX">
+							<ShortName>P6_Drums_1_110bpm.wav</ShortName>
+							<Path>SFX\P6_Drums_1_110bpm_D79FB2B7.wem</Path>
+						</File>
+						<File Id="658845130" Language="SFX">
+							<ShortName>P6_Lose.wav</ShortName>
+							<Path>SFX\P6_Lose_D79FB2B7.wem</Path>
+						</File>
+						<File Id="768710381" Language="SFX">
+							<ShortName>P6_Pad_1_110bpm.wav</ShortName>
+							<Path>SFX\P6_Pad_1_110bpm_D79FB2B7.wem</Path>
+						</File>
+						<File Id="850306774" Language="SFX">
+							<ShortName>P6_Melody_2_110bpm.wav</ShortName>
+							<Path>SFX\P6_Melody_2_110bpm_D79FB2B7.wem</Path>
+						</File>
+						<File Id="874509748" Language="SFX">
+							<ShortName>P6_Melody_1_110bpm.wav</ShortName>
+							<Path>SFX\P6_Melody_1_110bpm_D79FB2B7.wem</Path>
+						</File>
+						<File Id="874744761" Language="SFX">
+							<ShortName>P6_Drums_2_110bpm.wav</ShortName>
+							<Path>SFX\P6_Drums_2_110bpm_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{7C7AF8AF-7F97-461D-A83A-B170EB83DEE2}">
+							<Media>
+								<File Id="600195290"/>
+								<File Id="874509748"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{6B3F7720-5722-4121-888B-D8A148109A50}">
+							<Media>
+								<File Id="600195290"/>
+								<File Id="874509748"/>
+								<File Id="768710381"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{50602185-EAA2-45EB-9EC7-EF2E223C7519}">
+							<Media>
+								<File Id="874744761"/>
+								<File Id="874509748"/>
+								<File Id="340041216"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{5DF4B9EE-F5A1-4244-B7CB-2084AF5F585D}">
+							<Media>
+								<File Id="545452513"/>
+								<File Id="874744761"/>
+								<File Id="23710730"/>
+								<File Id="850306774"/>
+								<File Id="340041216"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="2682680661" Name="Music_Win" ObjectPath="\Events\Default Work Unit\Music\AdaptiveMusic\Music_Win" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2520423301" Name="Objective_New" ObjectPath="\Events\Default Work Unit\Foley\Objective_New" DurationType="OneShot" DurationMin="5.508118" DurationMax="5.508118">
+					<IncludedMemoryFiles>
+						<File Id="736283340" Language="SFX">
+							<ShortName>Objective_New.wav</ShortName>
+							<Path>SFX\Objective_New_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="480642402" Name="openCraftingMenu" ObjectPath="\Events\Default Work Unit\Foley\openCraftingMenu" DurationType="OneShot" DurationMin="1.175510" DurationMax="1.175510">
+					<IncludedMemoryFiles>
+						<File Id="318816958" Language="SFX">
+							<ShortName>inventoryOpen.wav</ShortName>
+							<Path>SFX\inventoryOpen_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1308384846" Name="pickupElectronics" ObjectPath="\Events\Default Work Unit\Foley\pickupElectronics" DurationType="OneShot" DurationMin="0.679184" DurationMax="0.679184">
+					<IncludedMemoryFiles>
+						<File Id="905024344" Language="SFX">
+							<ShortName>pickupFloppy.wav</ShortName>
+							<Path>SFX\pickupFloppy_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="134442588" Name="pickupScrap" ObjectPath="\Events\Default Work Unit\Foley\pickupScrap" DurationType="OneShot" DurationMin="0.583333" DurationMax="0.583333">
+					<IncludedMemoryFiles>
+						<File Id="117404738" Language="SFX">
+							<ShortName>pickupMetal2.wav</ShortName>
+							<Path>SFX\pickupMetal2_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1119853562" Name="pickupWood" ObjectPath="\Events\Default Work Unit\Foley\pickupWood" DurationType="OneShot" DurationMin="0.458333" DurationMax="0.458333">
+					<IncludedMemoryFiles>
+						<File Id="795360810" Language="SFX">
+							<ShortName>pickUp.wav</ShortName>
+							<Path>SFX\pickUp_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3086540886" Name="stopAll" ObjectPath="\Events\Default Work Unit\stopAll" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1353181121" Name="turnItem" ObjectPath="\Events\Default Work Unit\Foley\turnItem" DurationType="OneShot" DurationMin="0.357302" DurationMax="0.357302">
+					<IncludedMemoryFiles>
+						<File Id="83624873" Language="SFX">
+							<ShortName>TurnItem.wav</ShortName>
+							<Path>SFX\TurnItem_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1833016900" Name="windmillOff" ObjectPath="\Events\Default Work Unit\Foley\windmillOff" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="4218668702" Name="windmillOn" ObjectPath="\Events\Default Work Unit\Foley\windmillOn" MaxAttenuation="25.000000" DurationType="OneShot" DurationMin="60.000023" DurationMax="60.000023">
+					<IncludedMemoryFiles>
+						<File Id="1027136053" Language="SFX">
+							<ShortName>Windmill_1.wav</ShortName>
+							<Path>SFX\Windmill_1_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="3710016230" Name="Music_Playback" ObjectPath="\Game Parameters\P6_Game\Music_Playback"/>
+			</GameParameters>
+			<StateGroups>
+				<StateGroup Id="3826569560" Name="Music_State" ObjectPath="\States\P6_Game\Music_State">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\P6_Game\Music_State\None"/>
+						<State Id="1216605696" Name="Battery_100" ObjectPath="\States\P6_Game\Music_State\Battery_100"/>
+						<State Id="241565863" Name="Battery_75" ObjectPath="\States\P6_Game\Music_State\Battery_75"/>
+						<State Id="208010588" Name="Battery_50" ObjectPath="\States\P6_Game\Music_State\Battery_50"/>
+						<State Id="191233004" Name="Battery_25" ObjectPath="\States\P6_Game\Music_State\Battery_25"/>
+					</States>
+				</StateGroup>
+			</StateGroups>
+			<Triggers>
+				<Trigger Id="221232726" Name="Lose" ObjectPath="\Triggers\P6_Game\Lose"/>
+				<Trigger Id="979765101" Name="Win" ObjectPath="\Triggers\P6_Game\Win"/>
+			</Triggers>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

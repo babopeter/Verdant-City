@@ -1,0 +1,57 @@
+Event	ID	Name			Wwise Object Path	Notes
+	85412153	Ambience			\Default Work Unit\Foley\Ambience	
+	134442588	pickupScrap			\Default Work Unit\Foley\pickupScrap	
+	480642402	openCraftingMenu			\Default Work Unit\Foley\openCraftingMenu	
+	524398922	droneOn			\Default Work Unit\Foley\droneOn	
+	1119853562	pickupWood			\Default Work Unit\Foley\pickupWood	
+	1125500713	Intro			\Default Work Unit\Music\Intro	
+	1130782588	lowBattery			\Default Work Unit\UI\lowBattery	
+	1308384846	pickupElectronics			\Default Work Unit\Foley\pickupElectronics	
+	1353181121	turnItem			\Default Work Unit\Foley\turnItem	
+	1591560151	moveItem			\Default Work Unit\Foley\moveItem	
+	1833016900	windmillOff			\Default Work Unit\Foley\windmillOff	
+	2118900976	UI_hover			\Default Work Unit\UI\UI_hover	
+	2249769530	UI_click			\Default Work Unit\UI\UI_click	
+	2385628198	Footsteps			\Default Work Unit\Foley\Footsteps	
+	2520423301	Objective_New			\Default Work Unit\Foley\Objective_New	
+	2741499204	craftItem			\Default Work Unit\Foley\craftItem	
+	3315841131	generatorOff			\Default Work Unit\Foley\generatorOff	
+	3886820807	birdSong			\Default Work Unit\Foley\birdSong	
+	3937699135	Music_Loop			\Default Work Unit\Music\Music_Loop	
+	4218668702	windmillOn			\Default Work Unit\Foley\windmillOn	
+	4293911511	generatorOn			\Default Work Unit\Foley\generatorOn	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	17832740	Fts_6	C:\Repos\P6 Game Project\Assets\StreamingAssets\Audio\P6 Game Project_WwiseProject\.cache\Windows\SFX\Fts_6_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Feet_R\Fts_6		131640
+	56267667	Fts_1	C:\Repos\P6 Game Project\Assets\StreamingAssets\Audio\P6 Game Project_WwiseProject\.cache\Windows\SFX\Fts_1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Feet_L\Fts_1		121520
+	83624873	TurnItem	C:\Repos\P6 Game Project\Assets\StreamingAssets\Audio\P6 Game Project_WwiseProject\.cache\Windows\SFX\TurnItem_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\TurnItem		63092
+	117404738	pickupMetal2	C:\Repos\P6 Game Project\Assets\StreamingAssets\Audio\P6 Game Project_WwiseProject\.cache\Windows\SFX\pickupMetal2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\pickupMetal2		103044
+	200080304	Fts_7	C:\Repos\P6 Game Project\Assets\StreamingAssets\Audio\P6 Game Project_WwiseProject\.cache\Windows\SFX\Fts_7_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Feet_L\Fts_7		111400
+	223115164	Ambience_1	C:\Repos\P6 Game Project\Assets\StreamingAssets\Audio\P6 Game Project_WwiseProject\.cache\Windows\SFX\Ambience_1_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Ambience_1		5141620
+	258516127	Generator_1	C:\Repos\P6 Game Project\Assets\StreamingAssets\Audio\P6 Game Project_WwiseProject\.cache\Windows\SFX\Generator_1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Generator_1		17887748
+	279555595	Birds	C:\Repos\P6 Game Project\Assets\StreamingAssets\Audio\P6 Game Project_WwiseProject\.cache\Windows\SFX\Birds_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Birds		49377280
+	298026302	Fts_8	C:\Repos\P6 Game Project\Assets\StreamingAssets\Audio\P6 Game Project_WwiseProject\.cache\Windows\SFX\Fts_8_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Feet_R\Fts_8		141764
+	318816958	inventoryOpen	C:\Repos\P6 Game Project\Assets\StreamingAssets\Audio\P6 Game Project_WwiseProject\.cache\Windows\SFX\inventoryOpen_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\inventoryOpen		207424
+	325517268	Drone_3	C:\Repos\P6 Game Project\Assets\StreamingAssets\Audio\P6 Game Project_WwiseProject\.cache\Windows\SFX\Drone_3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drone_3		7814140
+	398983806	Gak_2	C:\Repos\P6 Game Project\Assets\StreamingAssets\Audio\P6 Game Project_WwiseProject\.cache\Windows\SFX\Gak_2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gak\Gak_2		162004
+	403218454	Fts_4	C:\Repos\P6 Game Project\Assets\StreamingAssets\Audio\P6 Game Project_WwiseProject\.cache\Windows\SFX\Fts_4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Feet_R\Fts_4		111400
+	405076858	Music_1	C:\Repos\P6 Game Project\Assets\StreamingAssets\Audio\P6 Game Project_WwiseProject\.cache\Windows\SFX\Music_1_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Music\Music_1		3907104
+	446951219	Fts_2	C:\Repos\P6 Game Project\Assets\StreamingAssets\Audio\P6 Game Project_WwiseProject\.cache\Windows\SFX\Fts_2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Feet_R\Fts_2		121520
+	561824268	MoveItem	C:\Repos\P6 Game Project\Assets\StreamingAssets\Audio\P6 Game Project_WwiseProject\.cache\Windows\SFX\MoveItem_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MoveItem		95860
+	637101821	UI_hover	C:\Repos\P6 Game Project\Assets\StreamingAssets\Audio\P6 Game Project_WwiseProject\.cache\Windows\SFX\UI_hover_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI\UI_hover		20416
+	699395777	Fts_5	C:\Repos\P6 Game Project\Assets\StreamingAssets\Audio\P6 Game Project_WwiseProject\.cache\Windows\SFX\Fts_5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Feet_L\Fts_5		111400
+	736283340	Objective_New	C:\Repos\P6 Game Project\Assets\StreamingAssets\Audio\P6 Game Project_WwiseProject\.cache\Windows\SFX\Objective_New_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Objectives\Objective_New		971696
+	795360810	pickUp	C:\Repos\P6 Game Project\Assets\StreamingAssets\Audio\P6 Game Project_WwiseProject\.cache\Windows\SFX\pickUp_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\pickUp		88144
+	802895620	Crafting	C:\Repos\P6 Game Project\Assets\StreamingAssets\Audio\P6 Game Project_WwiseProject\.cache\Windows\SFX\Crafting_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Crafting		243340
+	819595896	Fts_9	C:\Repos\P6 Game Project\Assets\StreamingAssets\Audio\P6 Game Project_WwiseProject\.cache\Windows\SFX\Fts_9_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Feet_L\Fts_9		162004
+	888138075	Gak_3	C:\Repos\P6 Game Project\Assets\StreamingAssets\Audio\P6 Game Project_WwiseProject\.cache\Windows\SFX\Gak_3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gak\Gak_3		121520
+	895940154	UI_click	C:\Repos\P6 Game Project\Assets\StreamingAssets\Audio\P6 Game Project_WwiseProject\.cache\Windows\SFX\UI_click_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI\UI_click		189876
+	905024344	pickupFloppy	C:\Repos\P6 Game Project\Assets\StreamingAssets\Audio\P6 Game Project_WwiseProject\.cache\Windows\SFX\pickupFloppy_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\pickupFloppy		119872
+	935134938	Gak_1	C:\Repos\P6 Game Project\Assets\StreamingAssets\Audio\P6 Game Project_WwiseProject\.cache\Windows\SFX\Gak_1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gak\Gak_1		121520
+	944849337	Fts_3	C:\Repos\P6 Game Project\Assets\StreamingAssets\Audio\P6 Game Project_WwiseProject\.cache\Windows\SFX\Fts_3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Feet_L\Fts_3		121520
+	947290999	Gak_4	C:\Repos\P6 Game Project\Assets\StreamingAssets\Audio\P6 Game Project_WwiseProject\.cache\Windows\SFX\Gak_4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gak\Gak_4		162004
+	984012717	Fts_10	C:\Repos\P6 Game Project\Assets\StreamingAssets\Audio\P6 Game Project_WwiseProject\.cache\Windows\SFX\Fts_10_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Feet_R\Fts_10		121520
+	999414831	Intro_1	C:\Repos\P6 Game Project\Assets\StreamingAssets\Audio\P6 Game Project_WwiseProject\.cache\Windows\SFX\Intro_1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Intro\Intro_1		3238840
+	1027136053	Windmill_1	C:\Repos\P6 Game Project\Assets\StreamingAssets\Audio\P6 Game Project_WwiseProject\.cache\Windows\SFX\Windmill_1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Windmill_1		10584068
+	1070303244	BatteryLow	C:\Repos\P6 Game Project\Assets\StreamingAssets\Audio\P6 Game Project_WwiseProject\.cache\Windows\SFX\BatteryLow_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\BatteryLow		305304
+

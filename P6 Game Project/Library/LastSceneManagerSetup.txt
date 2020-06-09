@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/LowPolyUltimatePack/10 - apocalypse.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

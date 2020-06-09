@@ -1,0 +1,8 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2118900976	UI_hover			\Default Work Unit\UI\UI_hover	
+	2249769530	UI_click			\Default Work Unit\UI\UI_click	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	637101821	UI_hover	C:\Repos\P6 Game Project\Assets\StreamingAssets\Audio\P6 Game Project_WwiseProject\.cache\Mac\SFX\UI_hover_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI\UI_hover		20416
+	895940154	UI_click	C:\Repos\P6 Game Project\Assets\StreamingAssets\Audio\P6 Game Project_WwiseProject\.cache\Mac\SFX\UI_click_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI\UI_click		189876
+

@@ -1,0 +1,605 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a15eda3dacaaa4e76846e4d0122c712c, type: 3}
+  m_Name: AkWwiseProjectData
+  m_EditorClassIdentifier: 
+  AcousticTextureWwu:
+  - PhysicalPath: Virtual Acoustics\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: 9d1aaddc7629a64d8f2fa62ddf0823f3
+    GuidInternal: 
+    m_lastTime: -8586135338924534359
+    List: []
+  AuxBusWwu:
+  - PhysicalPath: Master-Mixer Hierarchy\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: 6bc4d7ac9f92e849b9146b3615d8f0d3
+    GuidInternal: 
+    m_lastTime: -8586135339023200617
+    List:
+    - name: Master Audio Bus
+      guid: d8a41415a61d2a41a17e75ca0c2149f3
+      id: 3803692087
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      Path: Default Work Unit\Master Audio Bus
+  BankWwu:
+  - PhysicalPath: SoundBanks\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: 4a26136e1c86df4886efcf65db07fc80
+    GuidInternal: 
+    m_lastTime: -8586118769681819798
+    List:
+    - name: Main
+      guid: 2ecb865cf8e6274b9b46c74e6e0df243
+      id: 3161908922
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Main
+        ObjectType: 7
+      Path: Default Work Unit\Main
+    - name: Menu
+      guid: 634794ed8adcc24b912028aa73b66268
+      id: 2607556080
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Menu
+        ObjectType: 7
+      Path: Default Work Unit\Menu
+  EventWwu:
+  - PhysicalPath: Events\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: f274ce8b89d1b14e8754fe0c76ff4503
+    GuidInternal: 
+    m_lastTime: -8586118784579591471
+    List:
+    - name: AdaptiveMusic
+      guid: 4b6e6eb193aae5469d1b6bdce8392262
+      id: 3820115152
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Music
+        ObjectType: 4
+      - ElementName: AdaptiveMusic
+        ObjectType: 4
+      - ElementName: AdaptiveMusic
+        ObjectType: 3
+      Path: Default Work Unit\Music\AdaptiveMusic\AdaptiveMusic
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Ambience
+      guid: 7aeaa2347c2e0649b5b66d9017103a1e
+      id: 85412153
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Foley
+        ObjectType: 4
+      - ElementName: Ambience
+        ObjectType: 3
+      Path: Default Work Unit\Foley\Ambience
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: birdSong
+      guid: 9cd6e4297484274aaa1bf1eccf15e90e
+      id: 3886820807
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Foley
+        ObjectType: 4
+      - ElementName: birdSong
+        ObjectType: 3
+      Path: Default Work Unit\Foley\birdSong
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: craftItem
+      guid: 6c8bff713cff3040bada680dbc3b79f6
+      id: 2741499204
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Foley
+        ObjectType: 4
+      - ElementName: craftItem
+        ObjectType: 3
+      Path: Default Work Unit\Foley\craftItem
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: droneOn
+      guid: c0cd9a0b7974d640a62b1ebc5cc7cadc
+      id: 524398922
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Foley
+        ObjectType: 4
+      - ElementName: droneOn
+        ObjectType: 3
+      Path: Default Work Unit\Foley\droneOn
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Foley
+      guid: a8e2c9ddf5cac147bcb2a68253693778
+      id: 247557814
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Foley
+        ObjectType: 4
+      - ElementName: Foley
+        ObjectType: 3
+      Path: Default Work Unit\Foley\Foley
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Footsteps
+      guid: 27f504a239dfd2428a1ea5da1f65ad6a
+      id: 2385628198
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Foley
+        ObjectType: 4
+      - ElementName: Footsteps
+        ObjectType: 3
+      Path: Default Work Unit\Foley\Footsteps
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: generatorOff
+      guid: 1ec9c71a6f14ea4c95f34a6fb272c8fe
+      id: 3315841131
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Foley
+        ObjectType: 4
+      - ElementName: generatorOff
+        ObjectType: 3
+      Path: Default Work Unit\Foley\generatorOff
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: generatorOn
+      guid: 05e7777719f9d947abf80c02e8b01b44
+      id: 4293911511
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Foley
+        ObjectType: 4
+      - ElementName: generatorOn
+        ObjectType: 3
+      Path: Default Work Unit\Foley\generatorOn
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Intro
+      guid: 30ca0c710d52f94ca4e93557111e1f0f
+      id: 1125500713
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Music
+        ObjectType: 4
+      - ElementName: Intro
+        ObjectType: 3
+      Path: Default Work Unit\Music\Intro
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: lowBattery
+      guid: bc66fc67ea706247897505671ef37669
+      id: 1130782588
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: UI
+        ObjectType: 4
+      - ElementName: lowBattery
+        ObjectType: 3
+      Path: Default Work Unit\UI\lowBattery
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: moveItem
+      guid: 019ad455903a8246b122aaa287a07543
+      id: 1591560151
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Foley
+        ObjectType: 4
+      - ElementName: moveItem
+        ObjectType: 3
+      Path: Default Work Unit\Foley\moveItem
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Music
+      guid: 542ef0c626c34c468ed09c31b7c7b5ac
+      id: 3991942870
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Music
+        ObjectType: 4
+      - ElementName: Music
+        ObjectType: 3
+      Path: Default Work Unit\Music\Music
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Music_Loop
+      guid: ba93d5bd244b674baabba0faa17256eb
+      id: 3937699135
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Music
+        ObjectType: 4
+      - ElementName: Music_Loop
+        ObjectType: 3
+      Path: Default Work Unit\Music\Music_Loop
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Music_Lose
+      guid: 8d242d760b8b1b46ae5d64965989cba5
+      id: 3736367630
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Music
+        ObjectType: 4
+      - ElementName: AdaptiveMusic
+        ObjectType: 4
+      - ElementName: Music_Lose
+        ObjectType: 3
+      Path: Default Work Unit\Music\AdaptiveMusic\Music_Lose
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Music_Start
+      guid: 0f35a68bcea419468c503f22e163bbf5
+      id: 3725903807
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Music
+        ObjectType: 4
+      - ElementName: AdaptiveMusic
+        ObjectType: 4
+      - ElementName: Music_Start
+        ObjectType: 3
+      Path: Default Work Unit\Music\AdaptiveMusic\Music_Start
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Music_Win
+      guid: 5900de451f3e504985a14d25215d62d0
+      id: 2682680661
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Music
+        ObjectType: 4
+      - ElementName: AdaptiveMusic
+        ObjectType: 4
+      - ElementName: Music_Win
+        ObjectType: 3
+      Path: Default Work Unit\Music\AdaptiveMusic\Music_Win
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Objective_New
+      guid: fa81fbe2b50ee54e8ff6274a4774ef87
+      id: 2520423301
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Foley
+        ObjectType: 4
+      - ElementName: Objective_New
+        ObjectType: 3
+      Path: Default Work Unit\Foley\Objective_New
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: openCraftingMenu
+      guid: 081be2a3f7448d46bae3d609699ba537
+      id: 480642402
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Foley
+        ObjectType: 4
+      - ElementName: openCraftingMenu
+        ObjectType: 3
+      Path: Default Work Unit\Foley\openCraftingMenu
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: pickupElectronics
+      guid: eec808b92fd53944b6b7e940e38218df
+      id: 1308384846
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Foley
+        ObjectType: 4
+      - ElementName: pickupElectronics
+        ObjectType: 3
+      Path: Default Work Unit\Foley\pickupElectronics
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: pickupScrap
+      guid: b1bf9d2b58a03449a6b6d948a9b44c98
+      id: 134442588
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Foley
+        ObjectType: 4
+      - ElementName: pickupScrap
+        ObjectType: 3
+      Path: Default Work Unit\Foley\pickupScrap
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: pickupWood
+      guid: 1b096de6398ab84a97bc29aed974efd0
+      id: 1119853562
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Foley
+        ObjectType: 4
+      - ElementName: pickupWood
+        ObjectType: 3
+      Path: Default Work Unit\Foley\pickupWood
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: stopAll
+      guid: 47cd7998cb7f3b4cbc30490cfe401135
+      id: 3086540886
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: stopAll
+        ObjectType: 3
+      Path: Default Work Unit\stopAll
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: turnItem
+      guid: a90826e6eafb9f44be01e450c6a1e617
+      id: 1353181121
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Foley
+        ObjectType: 4
+      - ElementName: turnItem
+        ObjectType: 3
+      Path: Default Work Unit\Foley\turnItem
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: UI
+      guid: 68a833dfe095ba4ca19327a6f37c77f2
+      id: 1551306167
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: UI
+        ObjectType: 4
+      - ElementName: UI
+        ObjectType: 3
+      Path: Default Work Unit\UI\UI
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: UI_click
+      guid: 81653e9dbc2aeb47a4e1404d22b7f5b4
+      id: 2249769530
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: UI
+        ObjectType: 4
+      - ElementName: UI_click
+        ObjectType: 3
+      Path: Default Work Unit\UI\UI_click
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: UI_hover
+      guid: 322006f8a836cf469d20704ee519fe00
+      id: 2118900976
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: UI
+        ObjectType: 4
+      - ElementName: UI_hover
+        ObjectType: 3
+      Path: Default Work Unit\UI\UI_hover
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: windmillOff
+      guid: 6d4cbdfc81d9434f97bc34370496c57e
+      id: 1833016900
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Foley
+        ObjectType: 4
+      - ElementName: windmillOff
+        ObjectType: 3
+      Path: Default Work Unit\Foley\windmillOff
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: windmillOn
+      guid: 2c9fcd0e0d01ca4480078302ce0cf656
+      id: 4218668702
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Foley
+        ObjectType: 4
+      - ElementName: windmillOn
+        ObjectType: 3
+      Path: Default Work Unit\Foley\windmillOn
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+  RtpcWwu:
+  - PhysicalPath: Game Parameters\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: 7da8deeae319fb46ac8a806651fe2dc6
+    GuidInternal: 
+    m_lastTime: -8586135339033553628
+    List: []
+  - PhysicalPath: Game Parameters\P6_Game.wwu
+    ParentPath: P6_Game
+    guid: e055c4ae3dc10b48816acf6738a3e428
+    GuidInternal: 
+    m_lastTime: -8586118784579192224
+    List:
+    - name: Music_Playback
+      guid: 09bd7c81a364b94fbe914399bb08034f
+      id: 3710016230
+      PathAndIcons:
+      - ElementName: P6_Game
+        ObjectType: 12
+      - ElementName: Music_Playback
+        ObjectType: 13
+      Path: P6_Game\Music_Playback
+  StateWwu:
+  - PhysicalPath: States\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: 640b534b6e5921408f39e5af7481c868
+    GuidInternal: 
+    m_lastTime: -8586135338927683847
+    List: []
+  - PhysicalPath: States\P6_Game.wwu
+    ParentPath: P6_Game
+    guid: 3b6e6c59565e7d4883fe1c39331c5338
+    GuidInternal: 
+    m_lastTime: -8586118859265821684
+    List:
+    - name: Music_State
+      guid: 0163d329d0b57946b3ae1373907272f7
+      id: 3826569560
+      PathAndIcons:
+      - ElementName: P6_Game
+        ObjectType: 12
+      - ElementName: Music_State
+        ObjectType: 9
+      Path: P6_Game\Music_State
+      values:
+      - name: Battery_100
+        guid: aff87a7c977f1d46a83ab170eb83dee2
+        id: 1216605696
+        PathAndIcons:
+        - ElementName: Battery_100
+          ObjectType: 8
+      - name: Battery_25
+        guid: eeb9f45da1f54442b7cb2084af5f585d
+        id: 191233004
+        PathAndIcons:
+        - ElementName: Battery_25
+          ObjectType: 8
+      - name: Battery_50
+        guid: 85216050a2eaeb459ec7ef2e223c7519
+        id: 208010588
+        PathAndIcons:
+        - ElementName: Battery_50
+          ObjectType: 8
+      - name: Battery_75
+        guid: 20773f6b22572141888bd8a148109a50
+        id: 241565863
+        PathAndIcons:
+        - ElementName: Battery_75
+          ObjectType: 8
+      - name: None
+        guid: 4d9e137b057e4546ab2012ad538a9816
+        id: 748895195
+        PathAndIcons:
+        - ElementName: None
+          ObjectType: 8
+      ValueGuids: []
+      ValueIcons: []
+      valuesInternal: []
+  SwitchWwu:
+  - PhysicalPath: Switches\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: 8a18b2f50db80b45a43adf570f379e4a
+    GuidInternal: 
+    m_lastTime: -8586135338926555772
+    List: []
+  TriggerWwu:
+  - PhysicalPath: Triggers\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: 4570e201cef50f4c9dd311b8d44bb95a
+    GuidInternal: 
+    m_lastTime: -8586135338925397856
+    List: []
+  - PhysicalPath: Triggers\P6_Game.wwu
+    ParentPath: P6_Game
+    guid: eea7adde2cc5d3479003f10191ba9776
+    GuidInternal: 
+    m_lastTime: -8586118784579486670
+    List:
+    - name: Lose
+      guid: e02004ce3f6e0d44896bdc6e7e374ef4
+      id: 221232726
+      PathAndIcons:
+      - ElementName: P6_Game
+        ObjectType: 12
+      - ElementName: Lose
+        ObjectType: 14
+      Path: P6_Game\Lose
+    - name: Win
+      guid: 832f3eed549a62409464da958d37cb2a
+      id: 979765101
+      PathAndIcons:
+      - ElementName: P6_Game
+        ObjectType: 12
+      - ElementName: Win
+        ObjectType: 14
+      Path: P6_Game\Win
+  ExpandedItems:
+  - /P6 Game Project_WwiseProject
+  - /P6 Game Project_WwiseProject/Events
+  - /P6 Game Project_WwiseProject/Events/Default Work Unit
+  - /P6 Game Project_WwiseProject/Events/Default Work Unit/Music
+  - /P6 Game Project_WwiseProject/Events/Default Work Unit/Music/AdaptiveMusic
+  autoPopulateEnabled: 1
+  CurrentPluginConfig: 

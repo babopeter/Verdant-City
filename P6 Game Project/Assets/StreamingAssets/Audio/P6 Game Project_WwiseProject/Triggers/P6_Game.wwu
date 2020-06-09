@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{DEADA7EE-C52C-47D3-9003-F10191BA9776}" SchemaVersion="97">
+	<Triggers>
+		<WorkUnit Name="P6_Game" ID="{DEADA7EE-C52C-47D3-9003-F10191BA9776}" PersistMode="Standalone">
+			<ChildrenList>
+				<Trigger Name="Win" ID="{ED3E2F83-9A54-4062-9464-DA958D37CB2A}"/>
+				<Trigger Name="Lose" ID="{CE0420E0-6E3F-440D-896B-DC6E7E374EF4}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</Triggers>
+</WwiseDocument>
